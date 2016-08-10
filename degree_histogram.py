@@ -23,4 +23,4 @@ print nx.diameter(G)
 print nx.average_shortest_path_length(G)
 
 #匹配性
-print nx.degree_assortativity(G)
+#print nx.degree_assortativity(G)
